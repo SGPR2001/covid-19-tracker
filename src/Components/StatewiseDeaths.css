@@ -1,0 +1,42 @@
+.statewisedeaths {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 80px;
+}
+
+.state-deaths-chart{
+   display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  width: 90%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 10px;
+  height:500px
+}
+.deaths-types {
+  display: flex;
+  height:50px;
+  gap: 10px;
+  align-items: center;
+}
+.select-state-container {
+  flex: 1;
+}
+.button-deaths-container {
+  display: flex;
+  gap: 10px;
+}
+.chart-deaths-container {
+  
+ height:400px;
+  margin: 0 auto;
+  padding: 20px;
+ 
+}
+.deathsbar {
+  width: 100% !important;
+  height: 400px !important;
+}

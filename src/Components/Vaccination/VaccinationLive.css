@@ -1,0 +1,47 @@
+.vaccination-status-container {
+  padding: 20px;
+  background-color: #e5ccff;
+  border: 1px solid #e816ec;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+}
+
+.vaccination-status-container h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.vaccination-count {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 18px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 2px solid #9a28f8;
+  border-radius: 4px;
+}
+.vaccination-count label{
+    color: #9a28f8;
+    font-size: 20px;
+  font-weight: bold;
+}
+.count {
+  font-size: 24px;
+  font-weight: bold;
+  color: #9a28f8;
+}
+
+
+.line {
+  width: 100%;
+  border: none;
+  border-top: 2px solid #0c09098e;
+  margin: 5px 0;
+}
+
+.label {
+  margin-top: 5px;
+}

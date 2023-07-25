@@ -1,0 +1,1135 @@
+{
+  "location": {
+    "long": 78,
+    "countryOrRegion": "India",
+    "provinceOrState": null,
+    "county": null,
+    "isoCode": "IN",
+    "lat": 21
+  },
+  "updatedDateTime": "2021-02-26T06:49:45.7486715Z",
+  "news": [
+    {
+      "path": "_news/2021-02-25-india-reports-16738-new-coronavirus-cases-highest-since-january-29.md",
+      "title": "India reports 16,738 new coronavirus cases; highest since January 29",
+      "excerpt": "India reported 16,738 new coronavirus infections, health ministry data showed on Thursday, for the highest daily jump since January 29, according to a Reuters tally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-india-idUSKBN2AP0EB",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-india-idUSKBN2AP0EB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210225&t=2&i=1552856546&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1O0HK",
+          "width": 819,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AP0EB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AP0EB",
+      "publishedDateTime": "2021-02-24T19:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus", "New Cases"]
+    },
+    {
+      "path": "_news/2021-02-25-india-turns-to-private-sector-to-boost-sluggish-covid-19-vaccine-drive.md",
+      "title": "India turns to private sector to boost sluggish Covid-19 vaccine drive",
+      "excerpt": "I first arrived in India in the mid-1990s at the tail-end of its socialist-style “Licence Raj”. New Delhi was relaxing control over the country’s economic life, but basic amenities — long the monopoly of the state providers — were still in short supply.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/0d5a169b-c85e-4f1d-a326-64cf82bbdb0f",
+      "originalUrl": "https://www.ft.com/content/0d5a169b-c85e-4f1d-a326-64cf82bbdb0f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": ["India", "IN"],
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/0d5a169b-c85e-4f1d-a326-64cf82bbdb0f",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/0d5a169b-c85e-4f1d-a326-64cf82bbdb0f",
+      "publishedDateTime": "2021-02-24T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus"]
+    },
+    {
+      "path": "_news/2021-02-24-india-warns-of-worsening-covid-19-situation-vaccinations-to-expand.md",
+      "title": "India warns of worsening COVID-19 situation, vaccinations to expand",
+      "excerpt": "India announced an expansion of its COVID-19 vaccination programme on Wednesday but warned that breaches of coronavirus protocols could worsen an infection surge in many states.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-india-cases/india-warns-states-of-worsening-covid-19-situation-if-rules-ignored-idUSKBN2AO0TG?edition-redirect=uk",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-india-cases/india-warns-states-of-worsening-covid-19-situation-if-rules-ignored-idUSKBN2AO0TG?edition-redirect=uk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210224&t=2&i=1552731575&r=LYNXMPEH1N0FF&w=800",
+          "width": 800,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T06:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus"]
+    },
+    {
+      "path": "_news/2021-02-24-india-vs-england-visitors-win-the-toss-and-bat-first-in-day-night-third-test.md",
+      "title": "India vs England: Visitors win the toss and bat first in day-night third Test",
+      "excerpt": "England's decision to bat first on what appeared to be a favourable pitch in Ahmedabad backfired after India reduced them to 93 for seven in the first session of the crucial third Test.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sport/cricket/article-9294195/England-win-toss-bat-day-night-Test-India.html",
+      "originalUrl": "https://www.dailymail.co.uk/sport/cricket/article-9294195/England-win-toss-bat-day-night-Test-India.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/02/24/12/39710850-0-image-a-47_1614169570649.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sport/cricket/article-9294195/amp/England-win-toss-bat-day-night-Test-India.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sport/cricket/article-9294195/amp/England-win-toss-bat-day-night-Test-India.html",
+      "publishedDateTime": "2021-02-24T04:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus", "Treatment"]
+    },
+    {
+      "path": "_news/2021-02-23-hsbc-is-pushing-even-harder-into-china-and-india.md",
+      "title": "HSBC is pushing even harder into China and India",
+      "excerpt": "HSBC is pushing even harder into Asia as the bank seeks to shore up its business in the wake of the coronavirus pandemic. It’s also bringing back its dividend, a sign that it’s optimistic about its ability to navigate the year ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://kesq.com/money/2021/02/23/hsbc-is-pushing-even-harder-into-china-and-india/",
+      "originalUrl": "https://kesq.com/money/2021/02/23/hsbc-is-pushing-even-harder-into-china-and-india/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": ["CN", "India", "IN"],
+      "images": [
+        {
+          "url": "https://kesq.b-cdn.net/2021/02/hypatia-h_b44817aab4c2415d194658f511248283-h_b05a226d45d2e1680f731172d22dab5a_preview.jpg",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T04:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KESQ News",
+        "domain": "kesq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in China", "Coronavirus in Asia", "Coronavirus"]
+    },
+    {
+      "path": "_news/2021-02-23-india-covid-19-spike-continues-maharashtra-and-kerala-worst-hit-key-updates.md",
+      "title": "India Covid-19 spike continues; Maharashtra and Kerala worst-hit: Key updates",
+      "excerpt": "India has reported a surge in active cases of coronavirus infections for the fifth consecutive day.The total Covid-19 active cases have crossed the 1.5-lakh mark for the first time in 17 days",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/india-covid-19-spike-continues-maharashtra-and-kerala-worst-hit-key-updates-11614045644295.html",
+      "originalUrl": "https://www.livemint.com/news/india/india-covid-19-spike-continues-maharashtra-and-kerala-worst-hit-key-updates-11614045644295.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/02/23/600x338/15f38a88f7e943ac9c8ce04c15e025cc-15f38a88f7e943ac9c8ce04c15e025cc-1_1614047734081_1614047748253.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/india-covid-19-spike-continues-maharashtra-and-kerala-worst-hit-key-updates/amp-11614045644295.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/india-covid-19-spike-continues-maharashtra-and-kerala-worst-hit-key-updates/amp-11614045644295.html",
+      "publishedDateTime": "2021-02-23T03:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus"]
+    },
+    {
+      "path": "_news/2021-02-23-india-says-new-virus-variants-not-behind-rise-in-cases-in-two-states.md",
+      "title": "India says new virus variants not behind rise in cases in two states",
+      "excerpt": "India said on Tuesday new coronavirus variants were not responsible for an upsurge in cases in the states of Maharashtra and Kerala, based on evidence currently available.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-india-cases-idUSKBN2AN16I",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-india-cases-idUSKBN2AN16I",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210223&t=2&i=1552593110&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1M0R3",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AN16I",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AN16I",
+      "publishedDateTime": "2021-02-23T03:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus"]
+    },
+    {
+      "path": "_news/2021-02-23-disha-ravi-india-activist-22-granted-bail-by-court.md",
+      "title": "Disha Ravi: India activist, 22, granted bail by court",
+      "excerpt": "An Indian court has granted bail to a 22-year-old climate activist who was arrested for sharing a document intended to help farmers protesting against new agricultural laws. Police said Disha Ravi was a \"key conspirator\" in the \"formulation and dissemination\" of a protest \"toolkit\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-asia-india-56164865",
+      "originalUrl": "https://www.bbc.com/news/world-asia-india-56164865",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C976/production/_116947515_disharavi.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-asia-india-56164865",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-asia-india-56164865",
+      "publishedDateTime": "2021-02-23T02:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus"]
+    },
+    {
+      "path": "_news/2021-02-23-china-back-as-top-india-trade-partner-even-as-relations-sour.md",
+      "title": "China Back as Top India Trade Partner Even as Relations Sour",
+      "excerpt": "China regained its position as India’s top trade partner in 2020, as New Delhi’s reliance on imported machines outweighed its efforts to curb commerce with Beijing after a bloody border conflict.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-22/china-returns-as-top-india-trade-partner-even-as-relations-sour",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-22/china-returns-as-top-india-trade-partner-even-as-relations-sour",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": ["India", "IN", "CN"],
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiSnawTt8rPo/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus", "Coronavirus in China"]
+    },
+    {
+      "path": "_news/2021-02-23-is-india-currently-witnessing-a-second-wave-of-the-covid-19-pandemic.md",
+      "title": "Is India currently witnessing a second wave of the Covid-19 pandemic?",
+      "excerpt": "A spike in the number of new Covid-19 infections threatens to overturn the progress India has made in containing the pandemic. On Feb. 21, the country recorded over 14,000 new infections of the novel coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/india/1975610/is-india-witnessing-a-second-wave-of-the-coronavirus-pandemic/",
+      "originalUrl": "https://qz.com/india/1975610/is-india-witnessing-a-second-wave-of-the-coronavirus-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": ["India", "IN"],
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://qz.com/india/1975610/is-india-witnessing-a-second-wave-of-the-coronavirus-pandemic/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1975610/is-india-witnessing-a-second-wave-of-the-coronavirus-pandemic/amp/",
+      "publishedDateTime": "2021-02-22T18:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus"]
+    },
+    {
+      "path": "_news/2021-02-21-haunted-by-unfounded-fears-for-their-fertility-british-indians-are-more-likely-to-resist-getting-covid-19-vaccine.md",
+      "title": "Haunted by unfounded fears for their fertility, British Indians are more likely to resist getting COVID-19 vaccine",
+      "excerpt": "A report found that 56% of British Indians were vaccine-hesitant. They also worry vaccines are tainted with alcohol or meat products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/uk-british-indians-fear-covid-19-vaccine-will-impede-their-fertility",
+      "originalUrl": "https://www.businessinsider.com/uk-british-indians-fear-covid-19-vaccine-will-impede-their-fertility",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "https://i.insider.com/603259f9623bd30012bcc6e4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/uk-british-indians-fear-covid-19-vaccine-will-impede-their-fertility?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-british-indians-fear-covid-19-vaccine-will-impede-their-fertility?amp",
+      "publishedDateTime": "2021-02-21T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus"]
+    },
+    {
+      "path": "_news/2021-02-21-despite-covid-19s-downward-trajectory-in-india-two-worries-remain.md",
+      "title": "Despite Covid-19’s downward trajectory in India, two worries remain",
+      "excerpt": "But not everyone complied with mask-wearing and social distancing, despite the regulations. As Muliyil points out, barring the first few months of the lockdown, Indians went about their lives – with political rallies,",
+      "sourceUrl": null,
+      "webUrl": "https://scroll.in/article/987359/despite-covid-19s-downward-trajectory-in-india-two-worries-remain",
+      "originalUrl": "https://scroll.in/article/987359/despite-covid-19s-downward-trajectory-in-india-two-worries-remain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/148190-tsikxejnwt-1601220283.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scroll.in/article/987359/despite-covid-19s-downward-trajectory-in-india-two-worries-remain",
+      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/987359/despite-covid-19s-downward-trajectory-in-india-two-worries-remain",
+      "publishedDateTime": "2021-02-21T00:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scroll",
+        "domain": "scroll.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus"]
+    },
+    {
+      "path": "_news/2021-02-21-coronavirus-live-news-south-korea-to-begin-vaccine-rollout-as-top-vaccine-maker-told-to-prioritise-india.md",
+      "title": "Coronavirus live news: South Korea to begin vaccine rollout as top vaccine maker told to prioritise India",
+      "excerpt": "South Korea to begin vaccinating people by 27 February; Serum Institute of India says it has been directed to prioritise ‘huge needs of India’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/live/2021/feb/21/coronavirus-live-news-australia-begins-vaccine-rollout-israel-says-pfizer-jab-96-effective?page=with:block-60321ad78f08ad21ea6018c7",
+      "originalUrl": "https://www.theguardian.com/world/live/2021/feb/21/coronavirus-live-news-australia-begins-vaccine-rollout-israel-says-pfizer-jab-96-effective?page=with:block-60321ad78f08ad21ea6018c7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": ["India", "IN", "KR"],
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/90be06e264b45bcc1900d03715d4c62ef3cdf749/378_571_4280_2568/master/4280.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e5696726e069283abebddba4f516e56f",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2021/feb/21/coronavirus-live-news-australia-begins-vaccine-rollout-israel-says-pfizer-jab-96-effective",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/feb/21/coronavirus-live-news-australia-begins-vaccine-rollout-israel-says-pfizer-jab-96-effective",
+      "publishedDateTime": "2021-02-20T23:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": [
+        "Coronavirus in Asia",
+        "Coronavirus",
+        "Coronavirus in South Korea"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-indias-drreddys-seeks-emergency-use-authorization-for-russias-sputnik-v-vaccine.md",
+      "title": "India's Dr.Reddy's seeks emergency use authorization for Russia's Sputnik V vaccine",
+      "excerpt": "India's Dr.Reddy's Laboratories has sought emergency use authorization for Russia's Sputnik V COVID-19 vaccine in the country, the drugmaker said  on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-india-dr-reddys-idUSKBN2AJ116",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-india-dr-reddys-idUSKBN2AJ116",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552131012&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I0IA",
+          "width": 808,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AJ116",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ116",
+      "publishedDateTime": "2021-02-19T07:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus"]
+    },
+    {
+      "path": "_news/2021-02-19-india-virus-infections-at-three-week-high-mumbai-hires-marshals-to-enforce-mask-wearing.md",
+      "title": "India virus infections at three-week high, Mumbai hires marshals to enforce mask-wearing",
+      "excerpt": "India reported on Friday its biggest jump in new coronavirus infections in three weeks, with 13,193 cases, while thousands of marshals fanned out to enforce mask wearing across the financial capital of Mumbai,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-india-cases/india-virus-infections-at-three-week-high-mumbai-hires-marshals-to-enforce-mask-wearing-idUSKBN2AJ0OD?edition-redirect=uk",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-india-cases/india-virus-infections-at-three-week-high-mumbai-hires-marshals-to-enforce-mask-wearing-idUSKBN2AJ0OD?edition-redirect=uk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552120426&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I0BN",
+          "width": 824,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AJ0P4",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ0P4",
+      "publishedDateTime": "2021-02-19T04:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus"]
+    },
+    {
+      "path": "_news/2021-02-19-12881-new-covid-19-cases-in-india.md",
+      "title": "12,881 new Covid-19 cases in India",
+      "excerpt": "India's tally of COVID-19 cases rose to 1,09,50,201 with 12,881 new infections being reported in a day, while the recoveries have surged to 1,06,56,845, according to Union Health Ministry",
+      "sourceUrl": null,
+      "webUrl": "https://english.madhyamam.com/india/12881-new-covid-19-cases-in-india-770309",
+      "originalUrl": "https://english.madhyamam.com/india/12881-new-covid-19-cases-in-india-770309",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "https://english.madhyamam.com/h-upload/2021/02/19/889834-ba92cb95-3e78-4381-bede-f5ba7146cc44.jpg",
+          "width": 600,
+          "height": 299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.madhyamam.com/amp/india/12881-new-covid-19-cases-in-india-770309",
+      "cdnAmpWebUrl": "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/india/12881-new-covid-19-cases-in-india-770309",
+      "publishedDateTime": "2021-02-18T19:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madhyamam",
+        "domain": "madhyamam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus"]
+    },
+    {
+      "path": "_news/2021-02-19-indias-modi-calls-for-vaccine-data-sharing-as-exports-increase.md",
+      "title": "India's Modi calls for vaccine data sharing as exports increase",
+      "excerpt": "Indian Prime Minister Narendra Modi on Thursday urged neighbouring countries to consider sharing data on the effectiveness of COVID-19 vaccines and explore special visas for medics to move around the region during health emergencies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-health-coronavirus-india-diplomacy-idUKKBN2AI1EV",
+      "originalUrl": "https://www.reuters.com/article/uk-health-coronavirus-india-diplomacy-idUKKBN2AI1EV",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1551985431&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H0RB",
+          "width": 858,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2AI1EV",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AI1EV",
+      "publishedDateTime": "2021-02-18T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus"]
+    },
+    {
+      "path": "_news/2021-02-18-china-india-able-to-absorb-share-of-record-coronavirus-induced-global-debt-levels-with-growth-credibility.md",
+      "title": "China, India able to absorb share of record coronavirus-induced global debt levels with ‘growth credibility’",
+      "excerpt": "Global debt surged to US$281 trillion last year amid government efforts to offset the impact of the coronavirus, according to the Institute of International Finance (IIF).",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/economy/global-economy/article/3122224/china-india-able-absorb-share-record-coronavirus-induced",
+      "originalUrl": "https://www.scmp.com/economy/global-economy/article/3122224/china-india-able-absorb-share-record-coronavirus-induced",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": ["CN", "India", "IN"],
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/18/006cb9c6-71c8-11eb-a538-880d59d054e4_image_hires_180433.jpg?itok=hwMZH-Wi&v=1613642682",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/economy/global-economy/article/3122224/china-india-able-absorb-share-record-coronavirus-induced",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/economy/global-economy/article/3122224/china-india-able-absorb-share-record-coronavirus-induced",
+      "publishedDateTime": "2021-02-18T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in China", "Coronavirus in Asia", "Coronavirus"]
+    },
+    {
+      "path": "_news/2021-02-18-indias-bharat-biotech-pursues-covid-19-vaccine-approval-in-over-40-countries.md",
+      "title": "India's Bharat Biotech pursues COVID-19 vaccine approval in over 40 countries",
+      "excerpt": "India's Bharat Biotech is in the process of filing regulatory documents for approval of its COVID-19 vaccine, COVAXIN, in more than 40 countries, the company told Reuters late on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-india-vaccine-idUSKBN2AI0MW",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-india-vaccine-idUSKBN2AI0MW",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1551955330&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H0C6",
+          "width": 819,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AI0MW",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI0MW",
+      "publishedDateTime": "2021-02-18T04:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus"]
+    },
+    {
+      "path": "_news/2021-02-18-nepal-approves-chinese-covid-19-vaccine-to-make-first-purchases-from-india.md",
+      "title": "Nepal approves Chinese COVID-19 vaccine, to make first purchases from India",
+      "excerpt": "Nepal approved on Thursday the emergency use of a COVID-19 vaccine developed by an affiliate of China’s Sinopharm , a government official said, the second vaccine cleared after AstraZeneca's product.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-nepal-vaccine-idUSKBN2AI0FR",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-nepal-vaccine-idUSKBN2AI0FR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1551947327&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H07N",
+          "width": 794,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AI0FR",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI0FR",
+      "publishedDateTime": "2021-02-18T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus"]
+    },
+    {
+      "path": "_news/2021-02-18-the-latest-india-finds-new-cases-of-a-coronavirus-variant.md",
+      "title": "The Latest: India finds new cases of a coronavirus variant",
+      "excerpt": "NEW DELHI — Health officials in India say cases of the coronavirus variant first detected in South Africa and Brazil have been found in India. They said Tuesday that the variant was",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/world-news-australia-coronavirus-pandemic-coronavirus-vaccine-scott-morrison-7fe16dc202778d207bd93b09f7d99d68",
+      "originalUrl": "https://apnews.com/article/world-news-australia-coronavirus-pandemic-coronavirus-vaccine-scott-morrison-7fe16dc202778d207bd93b09f7d99d68",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": ["US", "India", "IN"],
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/6202ac739a9848f3b7ac33eae2e075ee/3000.jpeg",
+          "width": 3000,
+          "height": 1886,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T19:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": [
+        "New Cases",
+        "Coronavirus",
+        "Coronavirus in US",
+        "Coronavirus in Asia"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-indias-covid-19-human-barricade-to-keep-cases-under-control-say-experts.md",
+      "title": "India's COVID-19 'human barricade' to keep cases under control, say experts",
+      "excerpt": "With falling rates of COVID-19 infection in India and surveys suggesting nearly 300 million people may already have antibodies, some experts believe the worst of the disease has passed, despite a recent uptick in two hard-hit states.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-india/indias-covid-19-human-barricade-to-keep-cases-under-control-say-experts-idUSKBN2AH1EH",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-india/indias-covid-19-human-barricade-to-keep-cases-under-control-say-experts-idUSKBN2AH1EH",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551848189&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G0WM",
+          "width": 768,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AH1EH",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AH1EH",
+      "publishedDateTime": "2021-02-17T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus"]
+    },
+    {
+      "path": "_news/2021-02-17-indias-covid-19-human-barricade-to-keep-cases-under-control-say-experts.md",
+      "title": "India's COVID-19 'Human Barricade' to Keep Cases Under Control, Say Experts",
+      "excerpt": "A healthcare worker reacts as she receives the second dose of COVISHIELD, a COVID-19 vaccine manufactured by Serum Institute of India, at a hospital in Ahmedabad, India, February 15, 2021. REUTERS/Amit Dave Reuters BENGALURU/MUMBAI (Reuters) - With falling rates of COVID-19 infection in India and surveys suggesting nearly 300 million people may already have antibodies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/world/articles/2021-02-17/indias-covid-19-human-barricade-to-keep-cases-under-control-say-experts",
+      "originalUrl": "https://www.usnews.com/news/world/articles/2021-02-17/indias-covid-19-human-barricade-to-keep-cases-under-control-say-experts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": ["India", "IN"],
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/world/articles/2021-02-17/indias-covid-19-human-barricade-to-keep-cases-under-control-say-experts?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-02-17/indias-covid-19-human-barricade-to-keep-cases-under-control-say-experts?context=amp",
+      "publishedDateTime": "2021-02-17T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus"]
+    },
+    {
+      "path": "_news/2021-02-16-india-making-comeback-from-coronavirus-illnesses-with-less-than-11k-daily-cases.md",
+      "title": "India making comeback from coronavirus illnesses with less than 11K daily cases",
+      "excerpt": "When the coronavirus pandemic took hold in India, there were fears it would sink the fragile health system of the world’s second-most populous country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/india-making-comeback-from-coronavirus-illnesses-with-less-than-11k-daily-cases",
+      "originalUrl": "https://www.foxnews.com/health/india-making-comeback-from-coronavirus-illnesses-with-less-than-11k-daily-cases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/india-cropped-350a.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/india-making-comeback-from-coronavirus-illnesses-with-less-than-11k-daily-cases.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/india-making-comeback-from-coronavirus-illnesses-with-less-than-11k-daily-cases.amp",
+      "publishedDateTime": "2021-02-16T05:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus"]
+    },
+    {
+      "path": "_news/2021-02-16-india-detects-south-african-brazilian-covid-variants.md",
+      "title": "India detects South African, Brazilian COVID variants",
+      "excerpt": "India has detected both the South African and Brazilian coronavirus variants and people returning from those countries may be tested more aggressively, health officials said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-india-idUSKBN2AG14G",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-india-idUSKBN2AG14G",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551703491&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F0TE",
+          "width": 816,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AG14G",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG14G",
+      "publishedDateTime": "2021-02-16T04:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus"]
+    },
+    {
+      "path": "_news/2021-02-16-moeen-ali-returning-home-as-england-hope-to-recover-from-india-mauling.md",
+      "title": "Moeen Ali returning home as England hope to recover from India mauling",
+      "excerpt": "England will have to do without Moeen Ali as they try and bounce back from their thrashing in the second Test against India, after captain Joe Root revealed the all-rounder had opted out of the remain",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/sport/2021/feb/16/moeen-ali-returning-home-as-england-hope-to-recover-from-india-mauling-cricket-second-test",
+      "originalUrl": "https://www.theguardian.com/sport/2021/feb/16/moeen-ali-returning-home-as-england-hope-to-recover-from-india-mauling-cricket-second-test",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/bd75ebbc0c7134ccdcf7fdc5410d580352830c65/107_512_5116_3069/master/5116.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=26cb68c9cc3fcb4864e650b3f68a70e5",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/sport/2021/feb/16/moeen-ali-returning-home-as-england-hope-to-recover-from-india-mauling-cricket-second-test",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2021/feb/16/moeen-ali-returning-home-as-england-hope-to-recover-from-india-mauling-cricket-second-test",
+      "publishedDateTime": "2021-02-15T22:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus"]
+    },
+    {
+      "path": "_news/2021-02-16-ashwin-hits-ton-as-india-scent-victory-in-second-test.md",
+      "title": "Ashwin hits ton as India scent victory in second Test",
+      "excerpt": "Ravi­chan­dran Ashwin hit a sparkling century and took a key wicket on Monday to edge India closer to a series-levelling victory in the second Test against England, who face a daunting target of 482 to win.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dawn.com/news/1607547",
+      "originalUrl": "https://www.dawn.com/news/1607547",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "http://www.dawn.com/_img/social-default.jpg",
+          "width": 375,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dawn.com/news/amp/1607547",
+      "cdnAmpWebUrl": "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1607547",
+      "publishedDateTime": "2021-02-15T17:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dawn",
+        "domain": "dawn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus", "Treatment"]
+    },
+    {
+      "path": "_news/2021-02-16-india-to-ship-covid-19-vaccines-to-canada-as-diplomatic-tension-eases.md",
+      "title": "India to ship COVID-19 vaccines to Canada as diplomatic tension eases",
+      "excerpt": "India's Serum Institute will ship COVID-19 vaccines to Canada within a month, its chief executive said on Monday, in a sign a diplomatic row triggered by Canadian Prime Minister Justin Trudeau's comments on political protests in India was easing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-canada-idUSKBN2AF0KA",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-canada-idUSKBN2AF0KA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 220,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551565612&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1E0B2",
+          "width": 788,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AF0KA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF0KA",
+      "publishedDateTime": "2021-02-15T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus", "Coronavirus in Canada"]
+    },
+    {
+      "path": "_news/2021-02-15-india-covid-19-vaccines-market-size-growing-at-25-cagr-to-hit-usd-23-billion-by-2027.md",
+      "title": "India COVID-19 Vaccines Market Size growing at 25% CAGR to hit USD 2.3 Billion by 2027",
+      "excerpt": "Selbyville, Delaware, Market Study Report LLC recently added a new title on 2021-2027 India COVID-19 Vaccines Market Report from its database. The report provides study with in-depth overview, describing about the Product,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/india-covid-19-vaccines-market-size-growing-at-25-cagr-to-hit-usd-23-billion-by-2027-2021-02-15?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/india-covid-19-vaccines-market-size-growing-at-25-cagr-to-hit-usd-23-billion-by-2027-2021-02-15?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-15T04:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus", "Coronavirus in Asia"]
+    },
+    {
+      "path": "_news/2021-02-15-despite-political-tensions-chinese-phone-brands-hoovered-up-the-indian-market-in-2020.md",
+      "title": "Despite political tensions, Chinese phone brands hoovered up the Indian market in 2020",
+      "excerpt": "Despite politican tensions and app bans in India, Chinese smartphone makers had a stellar 2020 and grabbed more than 70% market.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/plugged/2021/02/15/xiaomi-vivo-oppo-realme-china-india-smartphone-analysis/",
+      "originalUrl": "https://thenextweb.com/plugged/2021/02/15/xiaomi-vivo-oppo-realme-china-india-smartphone-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": ["India", "IN"],
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/IMG_5028-e1613390198488-796x419.jpg",
+          "width": 796,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/plugged/2021/02/15/xiaomi-vivo-oppo-realme-china-india-smartphone-analysis/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2021/02/15/xiaomi-vivo-oppo-realme-china-india-smartphone-analysis/amp/",
+      "publishedDateTime": "2021-02-15T04:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": ["news"],
+      "topics": ["Coronavirus in Asia", "Coronavirus", "Political Impact"]
+    }
+  ]
+}

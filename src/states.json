@@ -1,0 +1,218 @@
+[
+  {
+    "FIELD1": 1,
+    "Name": "ANDAMAN AND NICOBAR",
+    "latitude": 11.66702557,
+    "longitude": 92.73598262
+  },
+  {
+    "FIELD1": 2,
+    "Name": "ANDHRA PRADESH",
+    "latitude": 14.7504291,
+    "longitude": 78.57002559
+  },
+  {
+    "FIELD1": 3,
+    "Name": "ARUNACHAL PRADESH",
+    "latitude": 27.10039878,
+    "longitude": 93.61660071
+  },
+  {
+    "FIELD1": 4,
+    "Name": "ASSAM",
+    "latitude": 26.7499809,
+    "longitude": 94.21666744
+  },
+  {
+    "FIELD1": 5,
+    "Name": "BIHAR",
+    "latitude": 25.78541445,
+    "longitude": 87.4799727
+  },
+  {
+    "FIELD1": 6,
+    "Name": "CHANDIGARH",
+    "latitude": 30.71999697,
+    "longitude": 76.78000565
+  },
+  {
+    "FIELD1": 7,
+    "Name": "CHHATTISGARH",
+    "latitude": 22.09042035,
+    "longitude": 82.15998734
+  },
+  {
+    "FIELD1": 8,
+    "Name": "DADRA AND NAGAR HAVELI",
+    "latitude": 20.26657819,
+    "longitude": 73.0166178
+  },
+  {
+    "FIELD1": 9,
+    "Name": "DELHI",
+    "latitude": 28.6699929,
+    "longitude": 77.23000403
+  },
+  {
+    "FIELD1": 10,
+    "Name": "GOA",
+    "latitude": 15.491997,
+    "longitude": 73.81800065
+  },
+  {
+    "FIELD1": 11,
+    "Name": "HARYANA",
+    "latitude": 29.23, 
+    "longitude":76.43
+  },
+  {
+    "FIELD1": 12,
+    "Name": "HIMACHAL PRADESH",
+    "latitude": 32.100024,
+    "longitude": 77.5619
+  },
+  {
+    "FIELD1": 13,
+    "Name": "JAMMU AND KASHMIR",
+    "latitude": 33.2778,
+    "longitude": 75.3412
+  },
+  {
+    "FIELD1": 14,
+    "Name": "JHARKHAND",
+    "latitude": 23.80039349,
+    "longitude": 86.41998572
+  },
+  {
+    "FIELD1": 15,
+    "Name": "KARNATAKA",
+    "latitude": 15.3173,
+    "longitude": 75.7139
+  },
+  {
+    "FIELD1": 16,
+    "Name": "KERALA",
+    "latitude": 10.1632,
+    "longitude": 76.6413
+  },
+  {
+    "FIELD1": 17,
+    "Name": "LAKSHADWEEP",
+    "latitude": 10.56257331,
+    "longitude": 72.63686717
+  },
+  {
+    "FIELD1": 18,
+    "Name": "MADHYA PRADESH",
+    "latitude": 22.9734,
+    "longitude": 78.6569
+  },
+  {
+    "FIELD1": 19,
+    "Name": "MAHARASHTRA",
+    "latitude": 19.7515,
+    "longitude": 75.7139
+  },
+  {
+    "FIELD1": 20,
+    "Name": "MANIPUR",
+    "latitude": 24.79997072,
+    "longitude": 93.95001705
+  },
+  {
+    "FIELD1": 21,
+    "Name": "MEGHALAYA",
+    "latitude": 25.57049217,
+    "longitude": 91.8800142
+  },
+  {
+    "FIELD1": 22,
+    "Name": "MIZORAM",
+    "latitude": 23.71039899,
+    "longitude": 92.72001461
+  },
+  {
+    "FIELD1": 23,
+    "Name": "NAGALAND",
+    "latitude": 25.6669979,
+    "longitude": 94.11657019
+  },
+  {
+    "FIELD1": 24,
+    "Name": "ODISHA",
+    "latitude": 19.82042971,
+    "longitude": 85.90001746
+  },
+  {
+    "FIELD1": 25,
+    "Name": "PUDUCHERRY",
+    "latitude": 11.93499371,
+    "longitude": 79.83000037
+  },
+  {
+    "FIELD1": 26,
+    "Name": "PUNJAB",
+    "latitude": 31.1471,
+    "longitude": 75.3412
+  },
+  {
+    "FIELD1": 27,
+    "Name": "RAJASTHAN",
+    "latitude": 26.44999921,
+    "longitude": 74.63998124
+  },
+  {
+    "FIELD1": 28,
+    "Name": "SIKKIM",
+    "latitude": 27.3333303,
+    "longitude": 88.6166475
+  },
+  {
+    "FIELD1": 29,
+    "Name": "TAMIL NADU",
+    "latitude": 11.1271,
+    "longitude": 78.6569
+  },
+  {
+    "FIELD1": 30,
+    "Name": "TRIPURA",
+    "latitude": 23.83540428,
+    "longitude": 91.27999914
+  },
+  {
+    "FIELD1": 31,
+    "Name": "UTTAR PRADESH",
+    "latitude": 27.5706,
+    "longitude": 80.0982
+  },
+  {
+    "FIELD1": 32,
+    "Name": "UTTARAKHAND",
+    "latitude": 30.32040895,
+    "longitude": 78.05000565
+  },
+  {
+    "FIELD1": 33,
+    "Name": "WEST BENGAL",
+    "latitude": 22.58039044,
+    "longitude": 88.32994665
+  },
+  {
+    "FIELD1": 34,
+    "Name": "Gujarat",
+    "latitude": 23.00,
+    "longitude": 72.00
+  },
+  {
+    "FIELD1": 35,
+    "Name": "Telangana",
+    "latitude":17.0,
+    "longitude": 80.0
+  },
+  {
+    "FIELD1": 36,
+    "Name": "Ladakh",
+    "latitude":  34.209515,
+    "longitude":  77.615112
+  }
+]
